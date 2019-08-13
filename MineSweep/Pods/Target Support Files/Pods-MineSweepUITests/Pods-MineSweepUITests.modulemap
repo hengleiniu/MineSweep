@@ -1,0 +1,6 @@
+framework module Pods_MineSweepUITests {
+  umbrella header "Pods-MineSweepUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
